@@ -6,7 +6,7 @@ As your binge subsides, you slow your gorging and spot a giant graham
 cracker leaning in the corner.
 
 After you're finished eating, you notice the sprinkler flooded the
-basement, making a pool of chocolate. Do you:
+basement, making a pool of dense chocolate. Do you:
 
 [Head to the basement with graham cracker in tow](graham-cracker/graham-cracker.md)?
 
